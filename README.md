@@ -1,2 +1,2 @@
 # UUID
-this is a start to hug the C/C++
+this is a start to approach the C/C++
